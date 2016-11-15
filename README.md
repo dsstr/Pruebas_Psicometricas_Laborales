@@ -1,2 +1,8 @@
 # Pruebas_Psicometricas_Laborales
-Test
+
+Universidad Tecnologica Metropolitana
+
+Proyecto Integrador: Calificador de Pruebas Psicometricas(Laborales)
+
+Integrantes:
+Luis Antoni Ortiz Sánchez
